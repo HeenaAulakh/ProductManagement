@@ -1,0 +1,8 @@
+C:\Heena\WebUserInterface\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Heena\WebUserInterface\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Heena\WebUserInterface\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Heena\WebUserInterface\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Heena\WebUserInterface\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Heena\WebUserInterface\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Heena\WebUserInterface\Database\obj\Debug\netcoreapp3.1\Database.pdb
+C:\Heena\WebUserInterface\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
